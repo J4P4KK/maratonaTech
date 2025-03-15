@@ -2,8 +2,8 @@
 *   *Em produção* 🚧🚧
 
 
-<a href="/img/banner.png">
-  <img alt="video poster image" src="/img/banner.png" width="100%">
+<a href="https://github.com/J4P4KK/maratonaTech/releases">
+  <img alt="video poster image" src="https://github.com/J4P4KK/maratonaTech/releases" width="100%">
 </a>
 
 # Do campo a cidade, colhendo OPORTUNIDADES
@@ -40,23 +40,23 @@ No site também contém informações sobre:
 
 ## 📦 Implantação
 
-Só e necessário abrir o site [clicando aqui!](https://ccm-jds.github.io/agrinho2024) 
+Só e necessário abrir o site [clicando aqui!](https://github.com/J4P4KK/maratonaTech/releases) 
 
 ## 🛠️ Construído com
 
 O que foi utilizado para criar o site:
 
-* [Weather Underground](https://www.wunderground.com) - Os dados da estação meteorológica 
-* [Bootstrap](https://getbootstrap.com) - Algumas funções do site
-* [Gemini](https://gemini.google.com/app) - A inteligência artificial para o site
+* [Weather Underground](https://github.com/J4P4KK/maratonaTech/releases) - Os dados da estação meteorológica 
+* [Bootstrap](https://github.com/J4P4KK/maratonaTech/releases) - Algumas funções do site
+* [Gemini](https://github.com/J4P4KK/maratonaTech/releases) - A inteligência artificial para o site
 
 ## ✒️ Autores
 
 Autores do projeto foram:
 
-* **Alunos da robótica** - *Desenvolvimento de Ideias* - [o grupo](https://www.instagram.com/cecm_projetos/)
-* **Guilherme Minoro** - *Desenvolvedor do Site* - [o desenvolvedor](https://www.instagram.com/japa_zx/)
-* **Jackeline** - *Professora de Programação* - [a professora](https://www.instagram.com/jackelinemondini/)
+* **Alunos da robótica** - *Desenvolvimento de Ideias* - [o grupo](https://github.com/J4P4KK/maratonaTech/releases)
+* **Guilherme Minoro** - *Desenvolvedor do Site* - [o desenvolvedor](https://github.com/J4P4KK/maratonaTech/releases)
+* **Jackeline** - *Professora de Programação* - [a professora](https://github.com/J4P4KK/maratonaTech/releases)
 * **Josimar** - *Professor de Robótica* - o professor
 
 
@@ -68,4 +68,4 @@ Autores do projeto foram:
 
 
 ---
-⌨️ com ❤️ por [Guilherme Minoro](https://www.instagram.com/japa_zx/) 😊
+⌨️ com ❤️ por [Guilherme Minoro](https://github.com/J4P4KK/maratonaTech/releases) 😊
